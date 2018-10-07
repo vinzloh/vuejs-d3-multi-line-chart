@@ -1,0 +1,11 @@
+$transition-time: 0.1s;
+
+%transition-all-ease {
+  transition: all $transition-time ease;
+}
+
+%truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

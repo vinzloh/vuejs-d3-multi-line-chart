@@ -1,0 +1,23 @@
+@mixin titillium-web-semibold {
+  font-family: "Titillium Web", Roboto, sans-serif;
+  font-weight: 600;
+}
+
+@mixin titillium-web-bold {
+  font-family: "Titillium Web", Roboto, "Arial Narrow";
+  font-weight: 700;
+}
+
+@mixin titillium-web-regular {
+  font-family: "Titillium Web", Roboto, sans-serif;
+  font-weight: 400; /* https://stackoverflow.com/questions/31056543/safari-font-rendering-issues/37365794#37365794 */
+}
+
+@mixin helvetica-neue {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+@mixin vollkorn-italic {
+  font-family: Georgia, ‘Vollkorn’, Times, Times New Romans, serif;
+  font-style: italic;
+}
