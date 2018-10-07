@@ -615,6 +615,7 @@ $arrow-width: 0.5rem;
     padding: 0.625rem 1rem;
     line-height: 0.875rem;
     border-bottom: 1px solid $chart-border-color;
+    text-align: left;
   }
 
   .series-container {
