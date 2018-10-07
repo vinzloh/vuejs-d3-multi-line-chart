@@ -1,6 +1,6 @@
-# test-project
+# d3.js Multi-line chart with Vue.js
 
-> A Vue.js project
+> Using popper.js for tooltip placement
 
 ## Build Setup
 
